@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Projet Edona{% endblock %}
+
+{% block body %}
+
+<div class="container mt-4">
+
+    <h1 class="text-center mb-5">
+      Bienvenue sur mon projet Cloud
+    </h1>
+
+
+    <p>Nom : {{ nom }}</p>
+<p>Prénom : {{ prenom }}</p>
+
+<p>Date et heure du jour :
+    {{ "now"|date("d/m/Y H:i:s") }}
+</p>
+
+{% endblock %}
