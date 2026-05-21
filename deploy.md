@@ -5,7 +5,7 @@
 - *Dépôt de code :** https://github.com/Edona35/projet
 
 ## Prérequis techniques
-- PHP 8.4
+- PHP 8.2
 - Symfony 7
 - Composer
 - Git
