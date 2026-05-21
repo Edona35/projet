@@ -2,7 +2,7 @@
 
 ## Liens
 
-- **Application en ligne :** [[URL_SCALINGO](https://projet.osc-fr1.scalingo.io/)]
+- **Application en ligne :** (https://projet.osc-fr1.scalingo.io/)
 - **Dépôt de code :** https://github.com/Edona35/projet
 
 ---
